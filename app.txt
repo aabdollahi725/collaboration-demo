@@ -1,3 +1,3 @@
 Collaboration Demo Project
-Version 1.1
+Version 2.0
 Feature: User Login added.
